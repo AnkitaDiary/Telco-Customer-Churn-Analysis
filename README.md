@@ -53,7 +53,7 @@ Telco-Customer-Churn-Analysis/
 - ├── Customer_churn_analysis.sql     # SQL queries (MySQL)
 - ├── sql_output_churn_analysis.xls   # Results of SQL queries
 - ├── DESCRIPTIVE_ANALYSIS.ipynb      # Jupyter Notebook for descriptive analysis
--├── DIAGNOSTIC_ANALYSIS.ipynb       # Jupyter Notebook for diagnostic analysis
+- ├── DIAGNOSTIC_ANALYSIS.ipynb       # Jupyter Notebook for diagnostic analysis
 
 
 
