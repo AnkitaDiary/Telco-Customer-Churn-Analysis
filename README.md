@@ -64,4 +64,4 @@ Telco-Customer-Churn-Analysis/
 
 ## Author
 **Ankita Dubey**  
-*(Add your LinkedIn, GitHub, or email here)*  
+[LinkedIn](https://www.linkedin.com/in/ankita-dubey-985125309/)
