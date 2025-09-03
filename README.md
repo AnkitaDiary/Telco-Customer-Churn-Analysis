@@ -47,13 +47,13 @@ The company is experiencing customer churn, leading to revenue loss. To address 
 
 ## Repository Structure
 Telco-Customer-Churn-Analysis/
-├── README.md                       # Project documentation
-├── Raw_-Telco-Customer-Churn       # Raw dataset
-├── Cleaned_dataset_Churn_Analysis  # Cleaned dataset
-├── Customer_churn_analysis.sql     # SQL queries (MySQL)
-├── sql_output_churn_analysis.xls   # Results of SQL queries
-├── DESCRIPTIVE_ANALYSIS.ipynb      # Jupyter Notebook for descriptive analysis
-├── DIAGNOSTIC_ANALYSIS.ipynb       # Jupyter Notebook for diagnostic analysis
+- ├── README.md                       # Project documentation
+- ├── Raw_-Telco-Customer-Churn       # Raw dataset
+- ├── Cleaned_dataset_Churn_Analysis  # Cleaned dataset
+- ├── Customer_churn_analysis.sql     # SQL queries (MySQL)
+- ├── sql_output_churn_analysis.xls   # Results of SQL queries
+- ├── DESCRIPTIVE_ANALYSIS.ipynb      # Jupyter Notebook for descriptive analysis
+-├── DIAGNOSTIC_ANALYSIS.ipynb       # Jupyter Notebook for diagnostic analysis
 
 
 
